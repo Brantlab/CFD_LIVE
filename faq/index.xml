@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frequently Asked Questions on Convoy Fire &amp; EMS</title>
-    <link>http://ConvoyFireAndEMS.com/faq/</link>
+    <link>http://test.convoyfireandems.com/faq/</link>
     <description>Recent content in Frequently Asked Questions on Convoy Fire &amp; EMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate><atom:link href="http://ConvoyFireAndEMS.com/faq/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate><atom:link href="http://test.convoyfireandems.com/faq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Volunteer Inquiry</title>
-      <link>http://ConvoyFireAndEMS.com/faq/volunteer/</link>
+      <link>http://test.convoyfireandems.com/faq/volunteer/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
-      <guid>http://ConvoyFireAndEMS.com/faq/volunteer/</guid>
+      <guid>http://test.convoyfireandems.com/faq/volunteer/</guid>
       <description>Loading… </description>
     </item>
     
