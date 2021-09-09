@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Convoy Fire &amp; EMS</title>
+    <link>http://ConvoyFireAndEMS.com/photos/</link>
+    <description>Recent content in Photos on Convoy Fire &amp; EMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
+    
+	<atom:link href="http://ConvoyFireAndEMS.com/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feb Pancake Event</title>
+      <link>http://ConvoyFireAndEMS.com/photos/are-you-doing-the-right-way/</link>
+      <pubDate>Sat, 07 Jul 2018 17:04:41 +0600</pubDate>
+      
+      <guid>http://ConvoyFireAndEMS.com/photos/are-you-doing-the-right-way/</guid>
+      <description>Introduction Had a great pancake event, Thank you all for coming out and supporting the fire dept.</description>
+    </item>
+    
+  </channel>
+</rss>
